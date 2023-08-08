@@ -51,8 +51,7 @@ DOMAIN-SUFFIX,twtkr.com
 DOMAIN-SUFFIX,twttr.com
 DOMAIN-SUFFIX,vimeo.com
 DOMAIN-SUFFIX,vimeocdn.com
-DOMAIN-SUFFIX,ytimg.com
-DOMAIN-SUFFIX,ggpht.com
+DOMAIN,yt3.ggpht.com
 DOMAIN-SUFFIX,slackb.com
 DOMAIN-SUFFIX,slack.com
 DOMAIN-SUFFIX,slack-core.com
