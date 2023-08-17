@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: Dmitrii Barakin
 # REPO: https://github.com/xeeqqw/shadowrocket-configuration-file
-# UPDATED: 2023-08-08 18:08:10
+# UPDATED: 2023-08-17 17:35:10
 DOMAIN-SUFFIX,aol.com
 DOMAIN-SUFFIX,browserleaks.com
 DOMAIN-SUFFIX,canva.com
@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,cdninstagram.com,force-remote-dns
 DOMAIN-SUFFIX,cdnfbsbx.com,force-remote-dns
 DOMAIN-SUFFIX,igcdn.com
 DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,ig.me
 DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,connect.facebook.net
 DOMAIN-SUFFIX,graph.facebook.com
