@@ -69,3 +69,7 @@ DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX,phncdn.com
 DOMAIN-SUFFIX,strava.com
 DOMAIN-KEYWORD,instagram
+DOMAIN-KEYWORD,youtube
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,meduza.io
