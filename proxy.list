@@ -73,3 +73,7 @@ DOMAIN-SUFFIX,meduza.io
 DOMAIN-KEYWORD,youtube
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN,youtube-ui.l.google.com
+DOMAIN,yt3.ggpht.com
+DOMAIN-SUFFIX,chatgpt.com
